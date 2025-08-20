@@ -1,1 +1,1 @@
-# restoran-sayti
+Restoran sayti
